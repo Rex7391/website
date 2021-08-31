@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/Rex7391/website/edit/gh-pa
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-<p>Mon chat est <strong>très<strong> grincheux.</p>
+<p>Mon chat est <strong>très</strong> grincheux.</p>
 
 ### Markdown
 
